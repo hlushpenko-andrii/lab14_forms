@@ -6,5 +6,7 @@
             "email": "hlushpenko.a2010@lntu.edu.ua"
         }
     ],
-    "require": {}
+    "require": {
+        "respect/validation": "^2.5"
+    }
 }
